@@ -1,0 +1,46 @@
+﻿.
+..
+...
+....
+.....
+
+About
+
+MrClicky Ver 1.a 
+  
+A simple program allowing rapid fire from
+most keys or mouse buttons, good when coupled
+with Gnome Sequencer in WOW but can be used
+with any game as it simulates keypresses or
+mouse button clicks.
+I also added a feature to fire your combo 
+points by reading when the fith one is filled.
+Pick the key you want it to trigger then add a
+macro to your bar in game and bind that key to
+it for the spell to fire. Add some checking
+like [combat][@target,harm,nodead] so it only
+fires when you target something alive and are
+actually fighting.
+
+Coded By tHE.alCHMist October 2017
+
+If you find any bugs please contact me 
+the.alchmist.freeware@aim.co.uk
+
+I can be found at some point most days
+playing WOW on Terokkar just give tHE.alCHMist
+a yell if you have a problem or have found a
+bug and maybe I will answer you.
+ 
+Greetz to anyone I know :)
+
+The BGM playing now is one of Ocean Softwares
+C64 cassette Loaders from the 80's (Loader4).
+
+.....
+....
+...
+..
+.
+Ω
+
