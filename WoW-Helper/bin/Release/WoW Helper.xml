@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WoWHelper
+</name>
+</assembly>
+<members>
+<member name="P:WoWHelper.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WoWHelper.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:WoWHelper.My.Resources.Resources.about">
+	<summary>
+  Looks up a localized string similar to .
+..
+...
+....
+.....
+
+About
+
+WoW-Helper Ver 3.a 
+
+I originally this little clicker to autofire mouse button 3
+as I have rheumatism in my hands and my fingers wanted an
+easier time when spamming the mouse buttons. Later on I
+found I was using the keyboard more so removed the mouse
+buttons from the program and it evolved in to this. 
+
+A simple program allowing rapid fire from almost any key on
+the keyboard. This works well when coupled with Gnome
+Sequencer in WOW but could be used with any ga [rest of string was truncated]";.
+</summary>
+</member><member name="P:WoWHelper.My.Resources.Resources.clicker64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member><member name="P:WoWHelper.My.Resources.Resources.Loaderv4">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:WoWHelper.My.Resources.Resources.Minimize">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:WoWHelper.My.Resources.Resources.small_left_old_brown_paper_texture_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WoWHelper.My.Resources.Resources.small_old_brown_paper_texture_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WoWHelper.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

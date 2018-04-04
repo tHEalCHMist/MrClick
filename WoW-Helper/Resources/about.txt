@@ -1,0 +1,49 @@
+﻿.
+..
+...
+....
+.....
+
+About
+
+WoW Helper Ver 3.a
+
+I originally wrote this little clicker to autofire
+mouse button 3 as I have a bit of rheumatism in my
+hands and fingers and wanted an easier time when
+spamming the mouse buttons. Later on I found I was
+using the keyboard more so removed the mouse buttons
+from the program and it evolved in to this. 
+
+A simple program allowing rapid fire from almost any
+key on the keyboard. This works well when coupled with
+Gnome Sequencer in WOW but could be used with any game.
+
+I also added a feature to fire your combo points by
+reading a user defined area of the screen. Pick the
+key you want it to trigger then add a macro to your
+bar in game and bind that key to it for the spell to
+fire. 
+
+Coded By tHE.alCHMist October 2016
+This latest version was updated March 2018
+
+If you find any bugs please contact me
+the.alchmist.freeware@aim.co.uk
+
+I can be found at some point most days playing WOW on
+Terokkar just give tHE.alCHMist a yell if you have a
+problem or have found a bug and maybe I will answer you.
+ 
+Greetz to anyone I know :)
+
+The BGM playing now is one of Ocean Softwares C64
+cassette loaders from the 80's (Loader4).
+
+.....
+....
+...
+..
+.
+Ω
+
